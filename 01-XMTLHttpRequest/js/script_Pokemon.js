@@ -1,6 +1,9 @@
 //Pedir los 10 pokemos y listar sus nombres
 //https://pokeapi.co/api/v2/pokemon?limit=10
 //Parte del ejemplo de las pelis con XMLHTTPRequest
+//Poner en Google Pokemon API rest vanilla
+//Mirar javascrip.info el tema 11 -https://es.javascript.info/callbacks-
+// https://es.javascript.info/async
 
 //XMLHTTPrequest
 const xhr = new XMLHttpRequest();
